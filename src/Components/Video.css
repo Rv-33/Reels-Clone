@@ -1,0 +1,6 @@
+.videos-styling{
+    width:100%;
+    /* border: 1px solid yellow; */
+    height:75vh;
+    scroll-snap-align: start;
+}

@@ -1,0 +1,25 @@
+Libraries Installed:
+      1.Material UI,Material UI Icons 
+      2.Pure-react-carousel
+      3.react-rouer-dom 
+Card APis
+In card text will come in typography
+npm config set legacy-peer-deps true
+inputs == text-field in material UI
+textfield
+variant-outlined
+we caanot put routers outside the app.js file unless we have already writttn browser router on main app.js file.
+for image sliding react carousel has beeen used.
+getTimeStamp: firebase.firestore.FieldValue.getTimeStamp used to sort the posts based on the time stamp
+context API helps in creating the global store so that all functions can access it.
+{/* all the components in b.w the auth provider will be children */}
+usecontext will be used for using the conetxt API
+switch to help in routing only one route
+in v6 switch is replaced with router
+useHistory replaced with useNavigate()
+sx for styling an inline item in material ui
+'/profile/:id' setting the variable path
+Instead of props being sent to the profile componennt we will use snapshot function in profile as it may happen
+user may be logged in multiple tabs change in one tab must result in other tab.
+We can define multiple useEffects in functional compoent where that is not posssible in class compoenet (profile.js)
+we can only ele.play video with Ioa only when it is muted post.js
